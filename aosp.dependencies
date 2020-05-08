@@ -8,5 +8,11 @@
     "repository" : "vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "ten"
+  },
+  {
+    "repository": "AnggaSP/clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-custom",
+    "branch": "master",
+    "remote": "github"
   }
 ]
