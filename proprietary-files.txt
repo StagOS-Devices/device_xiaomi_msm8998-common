@@ -553,6 +553,7 @@ vendor/lib64/libqmiservices.so|2b540e3da7a167346205813801d1cf7239759b1f
 -product/app/datastatusnotification/datastatusnotification.apk|9d0bae96aa9f156534074b515c66126d13db5413
 product/etc/permissions/qcrilhook.xml|ceb890ab3c1645aa0d0044abab1ba58c4097a991
 product/framework/qcrilhook.jar|23768fda90519d799e682fd058ec85b7b5cd6f89
+product/framework/qti-telephony-common.jar|180e59fb4d79e00612526c243b94711630940733
 -product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|71d083671c3ea4cd5e287a63fb254bb0ab60ed20
 vendor/bin/ATFWD-daemon|45fbe9c5bca99b1e9fb5d056e3d4dc37ad40d3b1
 vendor/bin/netmgrd|f3e4defadb041e959e059a0a2e5448fcf9360d08
