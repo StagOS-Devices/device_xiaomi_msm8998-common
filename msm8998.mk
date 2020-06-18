@@ -346,6 +346,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     librecovery_updater_xiaomi
 
+# Recorder
+TARGET_SUPPORTS_GOOGLE_RECORDER := true
+
 # RIL
 PRODUCT_PACKAGES += \
     librmnetctl
