@@ -1,14 +1,22 @@
 [
   {
-    "repository": "kernel_xiaomi_msm8998",
-    "target_path": "kernel/xiaomi/msm8998",
-    "branch": "ten"
+    "remote"      : "github",
+    "repository"  : "StagOS-Devices/device_xiaomi_msm8998-common",
+    "target_path" : "device/xiaomi/msm8998-common",
+    "branch"      : "sx"
   },
   {
-    "repository" : "vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch": "ten"
+    "remote"      : "github",
+    "repository"  : "AnggaSP/android_kernel_xiaomi_msm8998",
+    "target_path" : "kernel/xiaomi/msm8998",
+    "branch"      : "ten"
   },
+  {
+    "remote"      : "github",
+    "repository"  : "AnggaSP/proprietary_vendor_xiaomi",
+    "target_path" : "vendor/xiaomi/",
+    "branch"      : "ten"
+  }
   {
     "repository": "AnggaSP/clang",
     "target_path": "prebuilts/clang/host/linux-x86/clang-custom",
